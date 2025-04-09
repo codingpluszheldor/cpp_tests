@@ -1,2 +1,2 @@
 # cpp_tests
-c++ test and checs
+c++ test and checks
